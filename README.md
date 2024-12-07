@@ -28,14 +28,9 @@ Este projeto é desenvolvido em **REACT**. Este é um projeto de Formulário de 
     - O front-end estará rodando em http://localhost:4000 ou a porta configurada no package.json do React.
     - Verifique a comunicação entre o React e o Node.js. As requisições do front-end para o back-end serão feitas automaticamente quando a API for chamada.
 
-## Exemplo Visual
-
-Aqui está uma imagem de como o Projeto React se parece:
-
 ![Formulário de Cadastro - React]
 
-> **Nota:** Nota: Certifique-se de que o React e o NPM estão corretamente instalados na sua máquina para garantir o funcionamento do projeto.
-
+> **Nota:** Nota: Certifique-se de que o React estão corretamente instalados na sua máquina para garantir o funcionamento do projeto.
 
 ## Créditos
 Este projeto foi inspirado no tutorial do canal Devclub, que pode ser encontrado aqui (https://www.youtube.com/@canaldevclub). Embora tenha sido baseado no tutorial, todo o código foi escrito manualmente por mim, para garantir melhor aprendizado e prática.
