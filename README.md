@@ -5,15 +5,14 @@ Este projeto é desenvolvido em **REACT**. Este é um projeto de Formulário de 
 
 ## Funcionalidades
 
-    - Campos para nome, e-mail, senha e confirmação de senha.
+    - Campos para nome, idade e e-mail.
     - Validação de campos no cliente, utilizando React para garantir que os dados sejam preenchidos corretamente antes do envio.
-    - Feedback instantâneo sobre o status da validação dos campos.
+    - Feedback instantâneo sobre o status da validação dos campos.    
     - Envio dos dados para o backend (simulado ou real) após a validação.
 
 ## Tecnologias Utilizadas
 
 - React
-- HTML5
 
 ## Como Instalar e Usar
 
@@ -21,17 +20,17 @@ Este projeto é desenvolvido em **REACT**. Este é um projeto de Formulário de 
 
     - Faça o download do arquivo ZIP deste repositório.
     - Extraia os arquivos para uma pasta local.
-    - Instalar dependências:
-    - Abra o terminal e navegue até a pasta do projeto.
+    - Navegue até a pasta do front-end (geralmente chamada de client ou frontend).
+    - Instale as dependências do React
 
 2. **Abrir o projeto:**
 
-    - npm start
-    - O projeto será executado em http://localhost:3000, onde você poderá visualizar o formulário de cadastro.
+    - O front-end estará rodando em http://localhost:4000 ou a porta configurada no package.json do React.
+    - Verifique a comunicação entre o React e o Node.js. As requisições do front-end para o back-end serão feitas automaticamente quando a API for chamada.
 
 ## Exemplo Visual
 
-Aqui está uma imagem de como o Sistema Loja se parece:
+Aqui está uma imagem de como o Projeto React se parece:
 
 ![Formulário de Cadastro - React]
 
